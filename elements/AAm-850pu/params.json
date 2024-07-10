@@ -1,0 +1,14 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 47,
+        "width": 70
+    },
+    "display": "Generate PDF from HTML FILE",
+    "icon": "ion-social-html5",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    }
+}

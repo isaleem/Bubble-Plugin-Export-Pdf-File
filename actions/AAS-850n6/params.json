@@ -1,0 +1,21 @@
+{
+    "category": "plugins",
+    "display": "Display Plain Text To Input Field",
+    "fields": {
+        "AAT": {
+            "caption": "Input to Display",
+            "editor": "DynamicValue",
+            "name": "input",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAU": {
+            "caption": "Input ID",
+            "editor": "DynamicValue",
+            "name": "input_id",
+            "rank": 1,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

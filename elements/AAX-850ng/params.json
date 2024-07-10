@@ -1,0 +1,21 @@
+{
+    "add_is_visible": true,
+    "autobinding_value": "image",
+    "can_fit_height": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 70,
+        "width": 70
+    },
+    "display": "Generate PDF from IMAGE",
+    "icon": "ion-image",
+    "property_applications": {
+        "Background": false,
+        "Border": false,
+        "BoxShadow": false,
+        "MinWidth": true,
+        "Padding": false,
+        "resizable": true
+    },
+    "support_autobinding": true
+}

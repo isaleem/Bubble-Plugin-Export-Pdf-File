@@ -1,0 +1,13 @@
+  <link rel="stylesheet" href="//meta-q.cdn.bubble.io/f1714652249920x643868442183531000/.container%20%7B.css"> 
+  <div class="container">
+        <h1 style="padding:19px;">Text File to PDF Converter</h1>
+  
+        <input type="file" id="fileInput" style="display: none;" accept=".txt" onchange="displayFileName()">
+        <label for="fileInput" class="custom-button" id="browseButton">No file selected</label>
+        <div id="fileName" class="file-name" style="display: none;"></div>
+        <button id="convertButton" class="custom-button" style="display: none;" onclick="convertToPDF()">Convert to PDF</button>
+        <div id="output" style="display: none;"></div>
+        <a id="downloadLink" style="display: none;"></a>
+    </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.3.2/jspdf.debug.js"></script>
+<script src="//meta-q.cdn.bubble.io/f1714652276207x340587162890310800/textfile.js"></script>

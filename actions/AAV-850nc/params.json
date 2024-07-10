@@ -1,0 +1,16 @@
+{
+    "category": "plugins",
+    "display": "Generate PDF from TEXT",
+    "fields": {
+        "AAW": {
+            "caption": "TEXT",
+            "doc": "Enter The Text",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "text",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "PDF",
+        "2": "data (things)"
+    },
+    "description": "Effortlessly convert files to PDF for easy sharing and viewing. Streamline document distribution with quick PDF export functionality.",
+    "image": "//meta-q.cdn.bubble.io/f1714463665996x483120822477050000/images%20pdf.jpeg",
+    "license": "open_source",
+    "name": "Export Pdf File",
+    "sa_node_version": 18
+}

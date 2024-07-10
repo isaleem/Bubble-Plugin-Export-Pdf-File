@@ -1,0 +1,56 @@
+{
+    "assets": {
+        "AAG": {
+            "name": "script",
+            "url": "//meta-q.cdn.bubble.io/f1714481876461x775694385942999700/export.js"
+        },
+        "AAL": {
+            "name": "HtmlToPdf",
+            "url": "//meta-q.cdn.bubble.io/f1714562487082x697913557446996600/htm-to-pdf%20%282%29.svg"
+        },
+        "AAY": {
+            "name": "generate image to pdf",
+            "url": "//meta-q.cdn.bubble.io/f1714637139103x214660903985757200/PDF_file_icon.svg__1_-removebg-preview.png"
+        },
+        "AAb": {
+            "name": "image to pdf js",
+            "url": "//meta-q.cdn.bubble.io/f1714638886376x104339853023725390/image%20to%20pdf.js"
+        },
+        "AAh": {
+            "name": "style",
+            "url": "//meta-q.cdn.bubble.io/f1714642674840x995920024921255700/body%20%7B.css"
+        },
+        "AAi": {
+            "name": "resize image to pdf",
+            "url": "//meta-q.cdn.bubble.io/f1714644764821x231857627158953860/PDF_file_icon.svg__1_-removebg-preview%20%281%29.png"
+        },
+        "AAl": {
+            "name": "TEXT TO PDF",
+            "url": "//meta-q.cdn.bubble.io/f1714645520766x854663782821511800/Text%20to%20pdf.png"
+        },
+        "AAn": {
+            "name": "html file to pdf",
+            "url": "//meta-q.cdn.bubble.io/f1714647221456x988960683748123000/html%20file%20to%20pdf.png"
+        },
+        "AAo": {
+            "name": "textfiletopdf css",
+            "url": "//meta-q.cdn.bubble.io/f1714652249920x643868442183531000/.container%20%7B.css"
+        },
+        "AAp": {
+            "name": "textfiletopdf js",
+            "url": "//meta-q.cdn.bubble.io/f1714652276207x340587162890310800/textfile.js"
+        },
+        "AAr": {
+            "name": "htmlfilepdf js",
+            "url": "//meta-q.cdn.bubble.io/f1714661156313x118352872521540140/htmlfile.js"
+        },
+        "AAu": {
+            "name": "htmlfiletopdf css",
+            "url": "//meta-q.cdn.bubble.io/f1714663900193x386265889048455360/htmlfile.css"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
